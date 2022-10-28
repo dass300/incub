@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "react-router-dom": "^6.4.1",
+    "tailwindcss": "^3.1.8"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
